@@ -10,6 +10,7 @@ namespace DesafioFundamentos.Models
         {
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
+            
         }
 
         public void AdicionarVeiculo()
